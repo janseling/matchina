@@ -1,0 +1,19 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include pyproject.toml
+recursive-include matchina *.py
+recursive-include matchina/data *.db *.json
+recursive-include examples *.py
+recursive-include tests *.py
+global-exclude __pycache__
+global-exclude *.pyc
+global-exclude .gitignore
+global-exclude .mypy_cache
+global-exclude .pytest_cache
+global-exclude .ruff_cache
+global-exclude .venv
+global-exclude dist
+global-exclude build
+global-exclude *.egg-info

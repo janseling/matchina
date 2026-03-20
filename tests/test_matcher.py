@@ -47,7 +47,7 @@ class TestMatcherWithTestData:
         """测试加载测试数据"""
         assert len(test_data) == 391, f"预期 391 条记录，实际{len(test_data)}条"
         logger.info(f"加载测试数据成功：{len(test_data)}条记录")
-        
+
         # 验证数据格式
         record = test_data[0]
         assert 'id' in record
@@ -311,3 +311,4 @@ class TestPerformance:
 
 if __name__ == "__main__":
     pytest.main([__file__, "-v", "-s"])
+, "-s"])

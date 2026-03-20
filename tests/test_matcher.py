@@ -17,11 +17,12 @@ LOG_FILE = LOG_DIR / f"{datetime.now().strftime('%Y-%m-%d')}.jsonl"
 
 logging.basicConfig(
     level=logging.INFO,
-    format='{"timestamp": "%(asctime)s", "session_id": "matchina-test", "action": "%(levelname)s", "result": "%(message)s"}',
+    format='{"timestamp": "%(asctime)s", "session_id": "matchina-test", '
+           '"action": "%(levelname)s", "result": "%(message)s"}',
     handlers=[
         logging.FileHandler(LOG_FILE, encoding='utf-8'),
-        logging.StreamHandler()
-    ]
+        logging.StreamHandler(),
+    ],
 )
 logger = logging.getLogger(__name__)
 

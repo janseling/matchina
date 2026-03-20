@@ -39,7 +39,7 @@ class TestMatcherWithTestData:
     def test_data(self):
         """加载测试用例数据"""
         data_path = Path(__file__).parent / "test_data.json"
-        with open(data_path, 'r', encoding='utf-8') as f:
+        with open(data_path, encoding='utf-8') as f:
             data = json.load(f)
         return data['records']
 
@@ -311,3 +311,4 @@ class TestPerformance:
 
 if __name__ == "__main__":
     pytest.main([__file__, "-v", "-s"])
+-s"])

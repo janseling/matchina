@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.2] - 2026-03-21
+
+### Fixed
+- 恢复完整 README 文档结构 (特性/安装/API/示例)
+- 修复文档链接 (xxx → janseling)
+- 移除内部架构信息 (四套班子流程)
+- 清理敏感代码 (爬虫/清洗脚本)
+
+### Changed
+- 版本从 0.2.1 升级到 0.2.2
+
 ## [0.2.1] - 2026-03-21
 
 ### Fixed

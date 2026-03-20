@@ -83,3 +83,8 @@ data/*.json
 # Temporary files
 *.tmp
 tmp/
+
+# Memory logs (四套班子留痕 - 不公开)
+memory/
+
+engine

@@ -1,0 +1,2359 @@
+{
+  "metadata": {
+    "source": "entities.db",
+    "total_records": 7825,
+    "sample_size": 391,
+    "sample_rate": "5%",
+    "created_at": "2026-03-21T00:20:00Z",
+    "description": "Random 5% sample for testing",
+    "random_seed": 42
+  },
+  "records": [
+    {
+      "id": "HK00215",
+      "name_cn": "和记电讯香港",
+      "name_en": "HUTCHTEL HK",
+      "stock_code": "00215"
+    },
+    {
+      "id": "A002457",
+      "name_cn": "青龙管业",
+      "name_en": "Qinglong Pipes Industry Group Co., LTD.",
+      "stock_code": "002457"
+    },
+    {
+      "id": "A000701",
+      "name_cn": "厦门信达",
+      "name_en": "XIAMEN XINDECO LTD.",
+      "stock_code": "000701"
+    },
+    {
+      "id": "HK01349",
+      "name_cn": "复旦张江",
+      "name_en": "FUDANZHANGJIANG",
+      "stock_code": "01349"
+    },
+    {
+      "id": "A300923",
+      "name_cn": "研奥股份",
+      "name_en": "Yeal Electric Co., Ltd",
+      "stock_code": "300923"
+    },
+    {
+      "id": "A300662",
+      "name_cn": "科锐国际",
+      "name_en": "Beijing Career International Co., Ltd.",
+      "stock_code": "300662"
+    },
+    {
+      "id": "A300471",
+      "name_cn": "厚普股份",
+      "name_en": "Houpu Clean Energy Group Co., Ltd.",
+      "stock_code": "300471"
+    },
+    {
+      "id": "A002729",
+      "name_cn": "好利科技",
+      "name_en": "Hollyland (China) Electronics Technology Corp., Ltd.",
+      "stock_code": "002729"
+    },
+    {
+      "id": "HK01290",
+      "name_cn": "中国汇融",
+      "name_en": "CHINA HUIRONG",
+      "stock_code": "01290"
+    },
+    {
+      "id": "A002377",
+      "name_cn": "国创高新",
+      "name_en": "Hubei Guochuang Hi-tech Material Co., Ltd.",
+      "stock_code": "002377"
+    },
+    {
+      "id": "HK00621",
+      "name_cn": "坛金矿业",
+      "name_en": "TAUNG GOLD",
+      "stock_code": "00621"
+    },
+    {
+      "id": "HK01340",
+      "name_cn": "惠生国际",
+      "name_en": "HUISHENG INTL",
+      "stock_code": "01340"
+    },
+    {
+      "id": "HK06865",
+      "name_cn": "福莱特玻璃",
+      "name_en": "FLAT GLASS",
+      "stock_code": "06865"
+    },
+    {
+      "id": "A688047",
+      "name_cn": "龙芯中科",
+      "name_en": "龙芯中科 Co., Ltd.",
+      "stock_code": "688047"
+    },
+    {
+      "id": "A002237",
+      "name_cn": "恒邦股份",
+      "name_en": "Shandong Humon Smelting Co.,Ltd.",
+      "stock_code": "002237"
+    },
+    {
+      "id": "A688528",
+      "name_cn": "秦川物联",
+      "name_en": "秦川物联 Co., Ltd.",
+      "stock_code": "688528"
+    },
+    {
+      "id": "A600929",
+      "name_cn": "雪天盐业",
+      "name_en": "雪天盐业 Co., Ltd.",
+      "stock_code": "600929"
+    },
+    {
+      "id": "A000795",
+      "name_cn": "英洛华",
+      "name_en": "INNUOVO TECHNOLOGY CO.,LTD.",
+      "stock_code": "000795"
+    },
+    {
+      "id": "A000766",
+      "name_cn": "通化金马",
+      "name_en": "TONGHUA GOLDEN-HORSE PHARMACEUTICAL INDUSTRY CO,LTD",
+      "stock_code": "000766"
+    },
+    {
+      "id": "A002298",
+      "name_cn": "中电鑫龙",
+      "name_en": "Anhui ZhongDianXinLong Science and Technology Co., Ltd.",
+      "stock_code": "002298"
+    },
+    {
+      "id": "A300432",
+      "name_cn": "富临精工",
+      "name_en": "Fulin Precision Co., Ltd.",
+      "stock_code": "300432"
+    },
+    {
+      "id": "A300557",
+      "name_cn": "理工光科",
+      "name_en": "Wuhan Ligong Guangke CO.,Ltd.",
+      "stock_code": "300557"
+    },
+    {
+      "id": "A603662",
+      "name_cn": "柯力传感",
+      "name_en": "柯力传感 Co., Ltd.",
+      "stock_code": "603662"
+    },
+    {
+      "id": "A688656",
+      "name_cn": "浩欧博",
+      "name_en": "浩欧博 Co., Ltd.",
+      "stock_code": "688656"
+    },
+    {
+      "id": "A000718",
+      "name_cn": "苏宁环球",
+      "name_en": "Suning Universal Co.,Ltd.",
+      "stock_code": "000718"
+    },
+    {
+      "id": "A688197",
+      "name_cn": "首药控股",
+      "name_en": "首药控股 Co., Ltd.",
+      "stock_code": "688197"
+    },
+    {
+      "id": "A300240",
+      "name_cn": "飞力达",
+      "name_en": "Jiangsu Feiliks International Logistics Inc.",
+      "stock_code": "300240"
+    },
+    {
+      "id": "HK01068",
+      "name_cn": "雨润食品",
+      "name_en": "YURUN FOOD",
+      "stock_code": "01068"
+    },
+    {
+      "id": "HK00322",
+      "name_cn": "康师傅控股",
+      "name_en": "Tingyi (Cayman Islands) Holding Corp.",
+      "stock_code": null
+    },
+    {
+      "id": "HK00895",
+      "name_cn": "东江环保",
+      "name_en": "DONGJIANG ENV",
+      "stock_code": "00895"
+    },
+    {
+      "id": "A688041",
+      "name_cn": "海光信息",
+      "name_en": "海光信息 Co., Ltd.",
+      "stock_code": "688041"
+    },
+    {
+      "id": "A600889",
+      "name_cn": "南京化纤",
+      "name_en": "南京化纤 Co., Ltd.",
+      "stock_code": "600889"
+    },
+    {
+      "id": "A300446",
+      "name_cn": "航天智造",
+      "name_en": "Aerospace Intelligent Manufacturing Technology Co.,Ltd.",
+      "stock_code": "300446"
+    },
+    {
+      "id": "A601858",
+      "name_cn": "中国科传",
+      "name_en": "中国科传 Co., Ltd.",
+      "stock_code": "601858"
+    },
+    {
+      "id": "A688516",
+      "name_cn": "奥特维",
+      "name_en": "奥特维 Co., Ltd.",
+      "stock_code": "688516"
+    },
+    {
+      "id": "A300951",
+      "name_cn": "博硕科技",
+      "name_en": "SHENZHEN BSC TECHNOLOGY CO.,LTD.",
+      "stock_code": "300951"
+    },
+    {
+      "id": "HK02167",
+      "name_cn": "天润云",
+      "name_en": "TI CLOUD",
+      "stock_code": "02167"
+    },
+    {
+      "id": "HK03778",
+      "name_cn": "中国织材控股",
+      "name_en": "CHINA WEAVING",
+      "stock_code": "03778"
+    },
+    {
+      "id": "A000151",
+      "name_cn": "中成股份",
+      "name_en": "CHINA NATIONAL COMPLETE PLANT IMPORT & EXPORT CORPORATION LIMITED",
+      "stock_code": "000151"
+    },
+    {
+      "id": "HK01572",
+      "name_cn": "中国艺术金融",
+      "name_en": "CHINA ART FIN",
+      "stock_code": "01572"
+    },
+    {
+      "id": "HK02128",
+      "name_cn": "中国联塑",
+      "name_en": "CHINA LESSO",
+      "stock_code": "02128"
+    },
+    {
+      "id": "A002923",
+      "name_cn": "润都股份",
+      "name_en": "Zhuhai Rundu Pharmaceutical Co., Ltd.",
+      "stock_code": "002923"
+    },
+    {
+      "id": "HK00860",
+      "name_cn": "ＡＰＯＬＬＯ出行",
+      "name_en": "APOLLO FMG",
+      "stock_code": "00860"
+    },
+    {
+      "id": "A600939",
+      "name_cn": "重庆建工",
+      "name_en": "重庆建工 Co., Ltd.",
+      "stock_code": "600939"
+    },
+    {
+      "id": "A600015",
+      "name_cn": "华夏银行",
+      "name_en": "Huaxia Bank Co., Ltd.",
+      "stock_code": "600015"
+    },
+    {
+      "id": "A300949",
+      "name_cn": "奥雅股份",
+      "name_en": "SHENZHEN L&A DESIGN HOLDING LIMITED",
+      "stock_code": "300949"
+    },
+    {
+      "id": "A002886",
+      "name_cn": "沃特股份",
+      "name_en": "Shenzhen WOTE Advanced Materials Co.,Ltd.",
+      "stock_code": "002886"
+    },
+    {
+      "id": "A300402",
+      "name_cn": "宝色股份",
+      "name_en": "NANJIN BAOSE CO., LTD.",
+      "stock_code": "300402"
+    },
+    {
+      "id": "HK01627",
+      "name_cn": "安保工程控股",
+      "name_en": "ABLE ENG HLDGS",
+      "stock_code": "01627"
+    },
+    {
+      "id": "A301618",
+      "name_cn": "长联科技",
+      "name_en": "Dongguan Changlian New Material Technology Co., Ltd.",
+      "stock_code": "301618"
+    },
+    {
+      "id": "A002375",
+      "name_cn": "亚厦股份",
+      "name_en": "Zhejiang Yaxia Decoration Co., Ltd.",
+      "stock_code": "002375"
+    },
+    {
+      "id": "A002290",
+      "name_cn": "禾盛新材",
+      "name_en": "SUZHOU HESHENG SPECIAL MATERIAL CO.,LTD.",
+      "stock_code": "002290"
+    },
+    {
+      "id": "A600488",
+      "name_cn": "津药药业",
+      "name_en": "津药药业 Co., Ltd.",
+      "stock_code": "600488"
+    },
+    {
+      "id": "A002327",
+      "name_cn": "富安娜",
+      "name_en": "Shenzhen Fuanna Bedding and Furnishing Co.,Ltd.",
+      "stock_code": "002327"
+    },
+    {
+      "id": "A600227",
+      "name_cn": "赤天化",
+      "name_en": "Guizhou Chitianhua Co.,Ltd.",
+      "stock_code": "600227"
+    },
+    {
+      "id": "HK02631",
+      "name_cn": "天岳先进",
+      "name_en": "SICC",
+      "stock_code": "02631"
+    },
+    {
+      "id": "A600056",
+      "name_cn": "中国医药",
+      "name_en": "China Meheco Group Co.,Ltd.",
+      "stock_code": "600056"
+    },
+    {
+      "id": "A688676",
+      "name_cn": "金盘科技",
+      "name_en": "金盘科技 Co., Ltd.",
+      "stock_code": "688676"
+    },
+    {
+      "id": "A300833",
+      "name_cn": "浩洋股份",
+      "name_en": "GUANGZHOU HAOYANG ELECTRONIC CO.,LTD.",
+      "stock_code": "300833"
+    },
+    {
+      "id": "HK02142",
+      "name_cn": "和铂医药－Ｂ",
+      "name_en": "HBM HOLDINGS-B",
+      "stock_code": "02142"
+    },
+    {
+      "id": "A000952",
+      "name_cn": "广济药业",
+      "name_en": "HUBEI GUANGJI PHARMACEUTICAL CO., LTD.",
+      "stock_code": "000952"
+    },
+    {
+      "id": "HK01217",
+      "name_cn": "中国创新投资",
+      "name_en": "CH INNOVATION",
+      "stock_code": "01217"
+    },
+    {
+      "id": "A603041",
+      "name_cn": "美思德",
+      "name_en": "美思德 Co., Ltd.",
+      "stock_code": "603041"
+    },
+    {
+      "id": "A605299",
+      "name_cn": "舒华体育",
+      "name_en": "舒华体育 Co., Ltd.",
+      "stock_code": "605299"
+    },
+    {
+      "id": "A002584",
+      "name_cn": "西陇科学",
+      "name_en": "XILONG SCIENTIFIC CO., LTD",
+      "stock_code": "002584"
+    },
+    {
+      "id": "HK08362",
+      "name_cn": "运兴泰集团",
+      "name_en": "WINNING TOWER",
+      "stock_code": "08362"
+    },
+    {
+      "id": "A600470",
+      "name_cn": "六国化工",
+      "name_en": "六国化工 Co., Ltd.",
+      "stock_code": "600470"
+    },
+    {
+      "id": "A002163",
+      "name_cn": "海南发展",
+      "name_en": "Hainan Development Holdings Nanhai Co., Ltd.",
+      "stock_code": "002163"
+    },
+    {
+      "id": "A688110",
+      "name_cn": "东芯股份",
+      "name_en": "东芯股份 Co., Ltd.",
+      "stock_code": "688110"
+    },
+    {
+      "id": "A301082",
+      "name_cn": "久盛电气",
+      "name_en": "Jiusheng Electric Co., Ltd.",
+      "stock_code": "301082"
+    },
+    {
+      "id": "HK02407",
+      "name_cn": "高视医疗",
+      "name_en": "GAUSH MEDITECH",
+      "stock_code": "02407"
+    },
+    {
+      "id": "HK00107",
+      "name_cn": "四川成渝高速公路",
+      "name_en": "SICHUAN EXPRESS",
+      "stock_code": "00107"
+    },
+    {
+      "id": "HK00011",
+      "name_cn": "恒生银行",
+      "name_en": "Hang Seng Bank Limited",
+      "stock_code": null
+    },
+    {
+      "id": "HK06616",
+      "name_cn": "环球新材国际",
+      "name_en": "GLOBAL NEW MAT",
+      "stock_code": "06616"
+    },
+    {
+      "id": "HK03360",
+      "name_cn": "远东宏信",
+      "name_en": "FE HORIZON",
+      "stock_code": "03360"
+    },
+    {
+      "id": "A600259",
+      "name_cn": "中稀有色",
+      "name_en": "China Rare Earth Nonferrous Metals Co.,Ltd.",
+      "stock_code": "600259"
+    },
+    {
+      "id": "A688352",
+      "name_cn": "颀中科技",
+      "name_en": "颀中科技 Co., Ltd.",
+      "stock_code": "688352"
+    },
+    {
+      "id": "A300177",
+      "name_cn": "中海达",
+      "name_en": "Guangzhou Hi-Target Navigation Tech Co., Ltd.",
+      "stock_code": "300177"
+    },
+    {
+      "id": "HK00928",
+      "name_cn": "帝王国际投资",
+      "name_en": "KING INTL INV",
+      "stock_code": "00928"
+    },
+    {
+      "id": "A002080",
+      "name_cn": "中材科技",
+      "name_en": "Sinoma Science & Technology Co.,Ltd.",
+      "stock_code": "002080"
+    },
+    {
+      "id": "A000981",
+      "name_cn": "山子高科",
+      "name_en": "SENSTEED HI-TECH GROUP",
+      "stock_code": "000981"
+    },
+    {
+      "id": "HK00442",
+      "name_cn": "域能控股",
+      "name_en": "DOMAINE POWER",
+      "stock_code": "00442"
+    },
+    {
+      "id": "A300513",
+      "name_cn": "恒实科技",
+      "name_en": "Beijing E-techstar Co.,Ltd",
+      "stock_code": "300513"
+    },
+    {
+      "id": "HK01731",
+      "name_cn": "其利工业集团",
+      "name_en": "PROSPEROUS IND",
+      "stock_code": "01731"
+    },
+    {
+      "id": "A301048",
+      "name_cn": "金鹰重工",
+      "name_en": "Gemac Engineering Machinery Co., Ltd.",
+      "stock_code": "301048"
+    },
+    {
+      "id": "A002172",
+      "name_cn": "澳洋健康",
+      "name_en": "Jiangsu Aoyang Health Industry Co.ltd.",
+      "stock_code": "002172"
+    },
+    {
+      "id": "HK02877",
+      "name_cn": "神威药业",
+      "name_en": "SHINEWAY PHARM",
+      "stock_code": "02877"
+    },
+    {
+      "id": "A300559",
+      "name_cn": "佳发教育",
+      "name_en": "Chengdu Jiafaantai Education Technology Co.,Ltd.",
+      "stock_code": "300559"
+    },
+    {
+      "id": "HK03678",
+      "name_cn": "弘业期货",
+      "name_en": "HOLLY FUTURES",
+      "stock_code": "03678"
+    },
+    {
+      "id": "A002365",
+      "name_cn": "永安药业",
+      "name_en": "Qianjiang Yongan Pharmaceutical Co., Ltd.",
+      "stock_code": "002365"
+    },
+    {
+      "id": "A600489",
+      "name_cn": "中金黄金",
+      "name_en": "中金黄金 Co., Ltd.",
+      "stock_code": "600489"
+    },
+    {
+      "id": "A300950",
+      "name_cn": "德固特",
+      "name_en": "Doright Co.,Ltd.",
+      "stock_code": "300950"
+    },
+    {
+      "id": "A601968",
+      "name_cn": "宝钢包装",
+      "name_en": "宝钢包装 Co., Ltd.",
+      "stock_code": "601968"
+    },
+    {
+      "id": "HK00178",
+      "name_cn": "莎莎国际",
+      "name_en": "SA SA INT'L",
+      "stock_code": "00178"
+    },
+    {
+      "id": "HK02481",
+      "name_cn": "慧居科技",
+      "name_en": "WISE LIVING TEC",
+      "stock_code": "02481"
+    },
+    {
+      "id": "A600300",
+      "name_cn": "维维股份",
+      "name_en": "Vv Food&Beverage Co.,Ltd.",
+      "stock_code": "600300"
+    },
+    {
+      "id": "A002951",
+      "name_cn": "金时科技",
+      "name_en": "Sichuan Jinshi Technology Co.,Ltd",
+      "stock_code": "002951"
+    },
+    {
+      "id": "A600361",
+      "name_cn": "创新新材",
+      "name_en": "Beijing Hualian Hypermarket Co., Ltd.",
+      "stock_code": "600361"
+    },
+    {
+      "id": "A600185",
+      "name_cn": "珠免集团",
+      "name_en": "Zhuhai Zhumian Group Co., Ltd.",
+      "stock_code": "600185"
+    },
+    {
+      "id": "A300346",
+      "name_cn": "南大光电",
+      "name_en": "Jiangsu Nata Opto-electronic Material Co., Ltd.",
+      "stock_code": "300346"
+    },
+    {
+      "id": "HK00553",
+      "name_cn": "南京熊猫电子股份",
+      "name_en": "NANJING PANDA",
+      "stock_code": "00553"
+    },
+    {
+      "id": "A300854",
+      "name_cn": "中兰环保",
+      "name_en": "GAD Environmental Technology Co., LTD.",
+      "stock_code": "300854"
+    },
+    {
+      "id": "HK00899",
+      "name_cn": "中加国信",
+      "name_en": "ZHONG JIA GX",
+      "stock_code": "00899"
+    },
+    {
+      "id": "HK09606",
+      "name_cn": "映恩生物－Ｂ",
+      "name_en": "DUALITYBIO-B",
+      "stock_code": "09606"
+    },
+    {
+      "id": "HK00695",
+      "name_cn": "东吴水泥",
+      "name_en": "DONGWU CEMENT",
+      "stock_code": "00695"
+    },
+    {
+      "id": "HK00305",
+      "name_cn": "五菱汽车",
+      "name_en": "WULING MOTORS",
+      "stock_code": "00305"
+    },
+    {
+      "id": "A002097",
+      "name_cn": "山河智能",
+      "name_en": "Sunward Intelligent Equipment Co.,Ltd.",
+      "stock_code": "002097"
+    },
+    {
+      "id": "A688755",
+      "name_cn": "汉邦科技",
+      "name_en": "汉邦科技 Co., Ltd.",
+      "stock_code": "688755"
+    },
+    {
+      "id": "HK00171",
+      "name_cn": "银建国际",
+      "name_en": "SILVER GRANT",
+      "stock_code": "00171"
+    },
+    {
+      "id": "A003027",
+      "name_cn": "同兴科技",
+      "name_en": "Tongxing Environmental Protection Technology Co.,Ltd",
+      "stock_code": "003027"
+    },
+    {
+      "id": "A605198",
+      "name_cn": "安德利",
+      "name_en": "安德利 Co., Ltd.",
+      "stock_code": "605198"
+    },
+    {
+      "id": "HK01211",
+      "name_cn": "比亚迪股份",
+      "name_en": "BYD COMPANY",
+      "stock_code": "01211"
+    },
+    {
+      "id": "A300661",
+      "name_cn": "圣邦股份",
+      "name_en": "SG Micro Corp.",
+      "stock_code": null
+    },
+    {
+      "id": "A002958",
+      "name_cn": "青农商行",
+      "name_en": "Qingdao Rural Commercial Bank Corporation",
+      "stock_code": "002958"
+    },
+    {
+      "id": "A603069",
+      "name_cn": "海汽集团",
+      "name_en": "海汽集团 Co., Ltd.",
+      "stock_code": "603069"
+    },
+    {
+      "id": "A600482",
+      "name_cn": "中国动力",
+      "name_en": "中国动力 Co., Ltd.",
+      "stock_code": "600482"
+    },
+    {
+      "id": "A300879",
+      "name_cn": "大叶股份",
+      "name_en": "Ningbo Daye Garden Machinery Co.,Ltd",
+      "stock_code": "300879"
+    },
+    {
+      "id": "HK08417",
+      "name_cn": "大地教育",
+      "name_en": "DADI EDU",
+      "stock_code": "08417"
+    },
+    {
+      "id": "HK00219",
+      "name_cn": "顺豪物业",
+      "name_en": "SHUNHO PROPERTY",
+      "stock_code": "00219"
+    },
+    {
+      "id": "HK00745",
+      "name_cn": "中国国家文化产业",
+      "name_en": "CN CULTURE GP",
+      "stock_code": "00745"
+    },
+    {
+      "id": "A688158",
+      "name_cn": "优刻得",
+      "name_en": "优刻得 Co., Ltd.",
+      "stock_code": "688158"
+    },
+    {
+      "id": "A300440",
+      "name_cn": "运达科技",
+      "name_en": "Chengdu Yunda Technology Co., Ltd.",
+      "stock_code": "300440"
+    },
+    {
+      "id": "HK00704",
+      "name_cn": "和嘉控股",
+      "name_en": "HUSCOKE HLDGS",
+      "stock_code": "00704"
+    },
+    {
+      "id": "A301395",
+      "name_cn": "仁信新材",
+      "name_en": "Renxin New Material Co.,Ltd.",
+      "stock_code": "301395"
+    },
+    {
+      "id": "HK02581",
+      "name_cn": "明基医院",
+      "name_en": "BENQ HOLDING",
+      "stock_code": "02581"
+    },
+    {
+      "id": "HK01682",
+      "name_cn": "杭品生活科技",
+      "name_en": "HP LIVING TECH",
+      "stock_code": "01682"
+    },
+    {
+      "id": "HK01759",
+      "name_cn": "中油洁能控股",
+      "name_en": "SINO GAS HLDGS",
+      "stock_code": "01759"
+    },
+    {
+      "id": "A001325",
+      "name_cn": "元创股份",
+      "name_en": "Yachoo Technology Co., Ltd.",
+      "stock_code": "001325"
+    },
+    {
+      "id": "A300523",
+      "name_cn": "辰安科技",
+      "name_en": "Beijing Global Safety Technology Co., Ltd",
+      "stock_code": "300523"
+    },
+    {
+      "id": "HK02319",
+      "name_cn": "蒙牛乳业",
+      "name_en": "China Mengniu Dairy Company Limited",
+      "stock_code": null
+    },
+    {
+      "id": "A000797",
+      "name_cn": "中国武夷",
+      "name_en": "China Wuyi Co.,Ltd.",
+      "stock_code": "000797"
+    },
+    {
+      "id": "HK02119",
+      "name_cn": "捷荣国际控股",
+      "name_en": "TSIT WING INTL",
+      "stock_code": "02119"
+    },
+    {
+      "id": "A301303",
+      "name_cn": "真兰仪表",
+      "name_en": "Zenner Metering Technology(Shanghai) Ltd.",
+      "stock_code": "301303"
+    },
+    {
+      "id": "A600710",
+      "name_cn": "苏美达",
+      "name_en": "苏美达 Co., Ltd.",
+      "stock_code": "600710"
+    },
+    {
+      "id": "A300860",
+      "name_cn": "锋尚文化",
+      "name_en": "Funshine Culture Group Co.,Ltd.",
+      "stock_code": "300860"
+    },
+    {
+      "id": "A002048",
+      "name_cn": "宁波华翔",
+      "name_en": "Ningbo Huaxiang Electronic Co.,Ltd.",
+      "stock_code": "002048"
+    },
+    {
+      "id": "A300359",
+      "name_cn": "全通教育",
+      "name_en": "QTONE EDUCATION GROUP(GUANGDONG) CO.,LTD",
+      "stock_code": "300359"
+    },
+    {
+      "id": "HK08211",
+      "name_cn": "浙江永安",
+      "name_en": "ZHEJIANG YONGAN",
+      "stock_code": "08211"
+    },
+    {
+      "id": "HK09900",
+      "name_cn": "智云科技建设",
+      "name_en": "ZCLOUD TECH CON",
+      "stock_code": "09900"
+    },
+    {
+      "id": "A688256",
+      "name_cn": "寒武纪",
+      "name_en": "寒武纪 Co., Ltd.",
+      "stock_code": "688256"
+    },
+    {
+      "id": "HK03993",
+      "name_cn": "洛阳钼业",
+      "name_en": "CMOC",
+      "stock_code": "03993"
+    },
+    {
+      "id": "HK01090",
+      "name_cn": "大明国际",
+      "name_en": "DA MING INT'L",
+      "stock_code": "01090"
+    },
+    {
+      "id": "A301296",
+      "name_cn": "新巨丰",
+      "name_en": "SHANDONG NEWJF TECHNOLOGY PACKAGING CO., LTD.",
+      "stock_code": "301296"
+    },
+    {
+      "id": "A300377",
+      "name_cn": "赢时胜",
+      "name_en": "Shenzhen Ysstech Info-Tech Co.,Ltd",
+      "stock_code": "300377"
+    },
+    {
+      "id": "HK00376",
+      "name_cn": "云锋金融",
+      "name_en": "YUNFENG FIN",
+      "stock_code": "00376"
+    },
+    {
+      "id": "A603568",
+      "name_cn": "伟明环保",
+      "name_en": "Zhejiang Weiming Environment Protection Co., Ltd.",
+      "stock_code": null
+    },
+    {
+      "id": "A600650",
+      "name_cn": "锦江在线",
+      "name_en": "锦江在线 Co., Ltd.",
+      "stock_code": "600650"
+    },
+    {
+      "id": "HK06603",
+      "name_cn": "IFBH",
+      "name_en": "IFBH",
+      "stock_code": "06603"
+    },
+    {
+      "id": "HK08227",
+      "name_cn": "海天天线",
+      "name_en": "HAITIAN ANTENNA",
+      "stock_code": "08227"
+    },
+    {
+      "id": "HK00252",
+      "name_cn": "华信地产财务",
+      "name_en": "SE ASIA PPT",
+      "stock_code": "00252"
+    },
+    {
+      "id": "A603036",
+      "name_cn": "如通股份",
+      "name_en": "如通股份 Co., Ltd.",
+      "stock_code": "603036"
+    },
+    {
+      "id": "A002765",
+      "name_cn": "蓝黛科技",
+      "name_en": "Landai Technology Group Corp., Ltd.",
+      "stock_code": "002765"
+    },
+    {
+      "id": "A300836",
+      "name_cn": "佰奥智能",
+      "name_en": "Kunshan TopA Intelligent Equipment Co.,Ltd",
+      "stock_code": "300836"
+    },
+    {
+      "id": "A300676",
+      "name_cn": "华大基因",
+      "name_en": "BGI Genomics Co., Ltd",
+      "stock_code": "300676"
+    },
+    {
+      "id": "HK01397",
+      "name_cn": "碧瑶绿色集团",
+      "name_en": "BAGUIO GREEN",
+      "stock_code": "01397"
+    },
+    {
+      "id": "A688198",
+      "name_cn": "佰仁医疗",
+      "name_en": "佰仁医疗 Co., Ltd.",
+      "stock_code": "688198"
+    },
+    {
+      "id": "A605488",
+      "name_cn": "福莱新材",
+      "name_en": "福莱新材 Co., Ltd.",
+      "stock_code": "605488"
+    },
+    {
+      "id": "A300819",
+      "name_cn": "聚杰微纤",
+      "name_en": "Jiangsu Jujie Microfiber Technology Group Co.,Ltd.",
+      "stock_code": "300819"
+    },
+    {
+      "id": "HK01419",
+      "name_cn": "盈健医疗",
+      "name_en": "HUMAN HEALTH",
+      "stock_code": "01419"
+    },
+    {
+      "id": "A688435",
+      "name_cn": "英方软件",
+      "name_en": "英方软件 Co., Ltd.",
+      "stock_code": "688435"
+    },
+    {
+      "id": "A601008",
+      "name_cn": "连云港",
+      "name_en": "连云港 Co., Ltd.",
+      "stock_code": "601008"
+    },
+    {
+      "id": "HK06993",
+      "name_cn": "蓝月亮集团",
+      "name_en": "BLUE MOON GROUP",
+      "stock_code": "06993"
+    },
+    {
+      "id": "A688419",
+      "name_cn": "耐科装备",
+      "name_en": "耐科装备 Co., Ltd.",
+      "stock_code": "688419"
+    },
+    {
+      "id": "A600689",
+      "name_cn": "上海三毛",
+      "name_en": "上海三毛 Co., Ltd.",
+      "stock_code": "600689"
+    },
+    {
+      "id": "A600266",
+      "name_cn": "城建发展",
+      "name_en": "Beijing Urban Construction Investment& Development Co.,Ltd.",
+      "stock_code": "600266"
+    },
+    {
+      "id": "A300437",
+      "name_cn": "清水源",
+      "name_en": "Henan Qingshuiyuan Technology Co.,Ltd",
+      "stock_code": "300437"
+    },
+    {
+      "id": "A002718",
+      "name_cn": "友邦吊顶",
+      "name_en": "Zhejiang Youpon Integrated Ceiling Co., Ltd.",
+      "stock_code": "002718"
+    },
+    {
+      "id": "A603713",
+      "name_cn": "密尔克卫",
+      "name_en": "密尔克卫 Co., Ltd.",
+      "stock_code": "603713"
+    },
+    {
+      "id": "A603399",
+      "name_cn": "永杉锂业",
+      "name_en": "永杉锂业 Co., Ltd.",
+      "stock_code": "603399"
+    },
+    {
+      "id": "A002272",
+      "name_cn": "川润股份",
+      "name_en": "Sichuan Crun Co.,Ltd.",
+      "stock_code": "002272"
+    },
+    {
+      "id": "HK01540",
+      "name_cn": "澳狮环球",
+      "name_en": "LEFTFIELD PRINT",
+      "stock_code": "01540"
+    },
+    {
+      "id": "A000998",
+      "name_cn": "隆平高科",
+      "name_en": "Yuan Long Ping High-Tech Agriculture Co.,Ltd.",
+      "stock_code": "000998"
+    },
+    {
+      "id": "HK03336",
+      "name_cn": "巨腾国际",
+      "name_en": "JU TENG INTL",
+      "stock_code": "03336"
+    },
+    {
+      "id": "A002441",
+      "name_cn": "众业达",
+      "name_en": "Zhongyeda Electric Co., Ltd.",
+      "stock_code": "002441"
+    },
+    {
+      "id": "A002862",
+      "name_cn": "实丰文化",
+      "name_en": "Shifeng Cultural Development Co., Ltd.",
+      "stock_code": "002862"
+    },
+    {
+      "id": "HK00097",
+      "name_cn": "恒基发展",
+      "name_en": "HENDERSON INV",
+      "stock_code": "00097"
+    },
+    {
+      "id": "A002927",
+      "name_cn": "泰永长征",
+      "name_en": "GUIZHOU TAIYONG-CHANGZHENG TECHNOLOGY CO.,LTD.",
+      "stock_code": "002927"
+    },
+    {
+      "id": "HK01931",
+      "name_cn": "华检医疗",
+      "name_en": "ETHK LABS INC.",
+      "stock_code": "01931"
+    },
+    {
+      "id": "HK00663",
+      "name_cn": "金山能源",
+      "name_en": "KING STONE ENGY",
+      "stock_code": "00663"
+    },
+    {
+      "id": "A600933",
+      "name_cn": "爱柯迪",
+      "name_en": "爱柯迪 Co., Ltd.",
+      "stock_code": "600933"
+    },
+    {
+      "id": "A688591",
+      "name_cn": "泰凌微",
+      "name_en": "泰凌微 Co., Ltd.",
+      "stock_code": "688591"
+    },
+    {
+      "id": "A002025",
+      "name_cn": "航天电器",
+      "name_en": "Guizhou Space Appliance Co., Ltd.",
+      "stock_code": null
+    },
+    {
+      "id": "A600536",
+      "name_cn": "中国软件",
+      "name_en": "中国软件 Co., Ltd.",
+      "stock_code": "600536"
+    },
+    {
+      "id": "A600505",
+      "name_cn": "西昌电力",
+      "name_en": "西昌电力 Co., Ltd.",
+      "stock_code": "600505"
+    },
+    {
+      "id": "A688586",
+      "name_cn": "江航装备",
+      "name_en": "江航装备 Co., Ltd.",
+      "stock_code": "688586"
+    },
+    {
+      "id": "A603122",
+      "name_cn": "合富中国",
+      "name_en": "合富中国 Co., Ltd.",
+      "stock_code": "603122"
+    },
+    {
+      "id": "A605060",
+      "name_cn": "联德股份",
+      "name_en": "联德股份 Co., Ltd.",
+      "stock_code": "605060"
+    },
+    {
+      "id": "A300718",
+      "name_cn": "长盛轴承",
+      "name_en": "ZHEJIANG CHANGSHENG SLIDING BEARINGS CO., LTD.",
+      "stock_code": "300718"
+    },
+    {
+      "id": "A688120",
+      "name_cn": "华海清科",
+      "name_en": "华海清科 Co., Ltd.",
+      "stock_code": "688120"
+    },
+    {
+      "id": "HK03329",
+      "name_cn": "交银国际",
+      "name_en": "BOCOM INTL",
+      "stock_code": "03329"
+    },
+    {
+      "id": "HK09893",
+      "name_cn": "比优集团",
+      "name_en": "PIZU GROUP",
+      "stock_code": "09893"
+    },
+    {
+      "id": "A000516",
+      "name_cn": "国际医学",
+      "name_en": "Xi'an International Medical Investment Co., Ltd.",
+      "stock_code": "000516"
+    },
+    {
+      "id": "HK00661",
+      "name_cn": "中国大冶有色金属",
+      "name_en": "CDAYENONFER",
+      "stock_code": "00661"
+    },
+    {
+      "id": "HK01118",
+      "name_cn": "高力集团",
+      "name_en": "GOLIK HOLDINGS",
+      "stock_code": "01118"
+    },
+    {
+      "id": "A002487",
+      "name_cn": "大金重工",
+      "name_en": "Dajin Heavy Industry Co., Ltd.",
+      "stock_code": "002487"
+    },
+    {
+      "id": "HK00677",
+      "name_cn": "金源发展国际实业",
+      "name_en": "GOLDEN RES DEV",
+      "stock_code": "00677"
+    },
+    {
+      "id": "HK06608",
+      "name_cn": "百融云－Ｗ",
+      "name_en": "BAIRONG-W",
+      "stock_code": "06608"
+    },
+    {
+      "id": "A605333",
+      "name_cn": "沪光股份",
+      "name_en": "沪光股份 Co., Ltd.",
+      "stock_code": "605333"
+    },
+    {
+      "id": "HK01473",
+      "name_cn": "环联连讯",
+      "name_en": "PANGAEA CONNECT",
+      "stock_code": "01473"
+    },
+    {
+      "id": "A300852",
+      "name_cn": "四会富仕",
+      "name_en": "Sihui Fuji Electronics Technology Co.,Ltd.",
+      "stock_code": "300852"
+    },
+    {
+      "id": "HK01685",
+      "name_cn": "博耳电力",
+      "name_en": "BOER POWER",
+      "stock_code": "01685"
+    },
+    {
+      "id": "HK00229",
+      "name_cn": "利民实业",
+      "name_en": "RAYMOND IND",
+      "stock_code": "00229"
+    },
+    {
+      "id": "A600012",
+      "name_cn": "皖通高速",
+      "name_en": "Anhui Expressway Company Limited",
+      "stock_code": "600012"
+    },
+    {
+      "id": "A002458",
+      "name_cn": "益生股份",
+      "name_en": "Shandong Yisheng Livestock & Poultry Breeding Co., Ltd.",
+      "stock_code": "002458"
+    },
+    {
+      "id": "A301086",
+      "name_cn": "鸿富瀚",
+      "name_en": "Shenzhen hongfuhan Technology Co. Ltd.",
+      "stock_code": "301086"
+    },
+    {
+      "id": "A601158",
+      "name_cn": "重庆水务",
+      "name_en": "重庆水务 Co., Ltd.",
+      "stock_code": "601158"
+    },
+    {
+      "id": "A002910",
+      "name_cn": "庄园牧场",
+      "name_en": "Lanzhou Zhuangyuan Pasture CO., LTD.",
+      "stock_code": "002910"
+    },
+    {
+      "id": "A601975",
+      "name_cn": "招商南油",
+      "name_en": "招商南油 Co., Ltd.",
+      "stock_code": "601975"
+    },
+    {
+      "id": "A000037",
+      "name_cn": "深南电A",
+      "name_en": "Shenzhen Nanshan Power Co., Ltd.",
+      "stock_code": "000037"
+    },
+    {
+      "id": "USHCM",
+      "name_cn": "和黄医药",
+      "name_en": "Hutchmed Limited",
+      "stock_code": null
+    },
+    {
+      "id": "HK01129",
+      "name_cn": "中国水业集团",
+      "name_en": "WATER INDUSTRY",
+      "stock_code": "01129"
+    },
+    {
+      "id": "HK03986",
+      "name_cn": "兆易创新",
+      "name_en": "GIGADEVICE",
+      "stock_code": "03986"
+    },
+    {
+      "id": "HK01109",
+      "name_cn": "华润置地",
+      "name_en": "CHINA RES LAND",
+      "stock_code": "01109"
+    },
+    {
+      "id": "A300824",
+      "name_cn": "北鼎股份",
+      "name_en": "Shenzhen Crastal Technology Co.,Ltd",
+      "stock_code": "300824"
+    },
+    {
+      "id": "A603590",
+      "name_cn": "康辰药业",
+      "name_en": "康辰药业 Co., Ltd.",
+      "stock_code": "603590"
+    },
+    {
+      "id": "HK01610",
+      "name_cn": "中粮家佳康",
+      "name_en": "COFCO JOYCOME",
+      "stock_code": "01610"
+    },
+    {
+      "id": "A300040",
+      "name_cn": "九洲集团",
+      "name_en": "Harbin Jiuzhou Group Co.,Ltd.",
+      "stock_code": "300040"
+    },
+    {
+      "id": "A603689",
+      "name_cn": "皖天然气",
+      "name_en": "皖天然气 Co., Ltd.",
+      "stock_code": "603689"
+    },
+    {
+      "id": "HK08205",
+      "name_cn": "交大慧谷",
+      "name_en": "JIAODA WITHUB",
+      "stock_code": "08205"
+    },
+    {
+      "id": "A002409",
+      "name_cn": "雅克科技",
+      "name_en": "Jiangsu Yoke Technology Co.,Ltd",
+      "stock_code": "002409"
+    },
+    {
+      "id": "HK03822",
+      "name_cn": "三和建筑集团",
+      "name_en": "SAM WOO CONS",
+      "stock_code": "03822"
+    },
+    {
+      "id": "HK00078",
+      "name_cn": "REGAL INT'L",
+      "name_en": "REGAL INT'L",
+      "stock_code": "00078"
+    },
+    {
+      "id": "A301130",
+      "name_cn": "西点药业",
+      "name_en": "Jilin Province Xidian Pharmaceutical Sci-Tech Development Co.,Ltd.",
+      "stock_code": "301130"
+    },
+    {
+      "id": "HK02567",
+      "name_cn": "七牛智能",
+      "name_en": "QINIU",
+      "stock_code": "02567"
+    },
+    {
+      "id": "HK00211",
+      "name_cn": "STYLAND HOLD",
+      "name_en": "STYLAND HOLD",
+      "stock_code": "00211"
+    },
+    {
+      "id": "A688739",
+      "name_cn": "成大生物",
+      "name_en": "成大生物 Co., Ltd.",
+      "stock_code": "688739"
+    },
+    {
+      "id": "A300241",
+      "name_cn": "瑞丰光电",
+      "name_en": "Shenzhen Refond Optoelectronics Co., Ltd.",
+      "stock_code": "300241"
+    },
+    {
+      "id": "A600403",
+      "name_cn": "大有能源",
+      "name_en": "Dayou Energy Co., Ltd.",
+      "stock_code": "600403"
+    },
+    {
+      "id": "HK01616",
+      "name_cn": "一元宇宙",
+      "name_en": "A METAVERSE",
+      "stock_code": "01616"
+    },
+    {
+      "id": "A002941",
+      "name_cn": "新疆交建",
+      "name_en": "Xinjiang Communications Construction Group Co., Ltd",
+      "stock_code": "002941"
+    },
+    {
+      "id": "A605507",
+      "name_cn": "国邦医药",
+      "name_en": "国邦医药 Co., Ltd.",
+      "stock_code": "605507"
+    },
+    {
+      "id": "USEDU",
+      "name_cn": "新东方",
+      "name_en": "New Oriental Education & Technology Group Inc.",
+      "stock_code": null
+    },
+    {
+      "id": "HK01788",
+      "name_cn": "国泰君安国际",
+      "name_en": "GUOTAI JUNAN I",
+      "stock_code": "01788"
+    },
+    {
+      "id": "HK08365",
+      "name_cn": "亦辰集团",
+      "name_en": "HATCHER GROUP",
+      "stock_code": "08365"
+    },
+    {
+      "id": "A605098",
+      "name_cn": "行动教育",
+      "name_en": "行动教育 Co., Ltd.",
+      "stock_code": "605098"
+    },
+    {
+      "id": "HK08297",
+      "name_cn": "海纳星空科技",
+      "name_en": "OCEAN STAR TECH",
+      "stock_code": "08297"
+    },
+    {
+      "id": "A000008",
+      "name_cn": "神州高铁",
+      "name_en": "China High-Speed Railway Technology Co.,Ltd.",
+      "stock_code": "000008"
+    },
+    {
+      "id": "A688615",
+      "name_cn": "合合信息",
+      "name_en": "合合信息 Co., Ltd.",
+      "stock_code": "688615"
+    },
+    {
+      "id": "A301393",
+      "name_cn": "昊帆生物",
+      "name_en": "Suzhou Highfine Biotech Co., Ltd.",
+      "stock_code": "301393"
+    },
+    {
+      "id": "A603339",
+      "name_cn": "四方科技",
+      "name_en": "四方科技 Co., Ltd.",
+      "stock_code": "603339"
+    },
+    {
+      "id": "A000607",
+      "name_cn": "华媒控股",
+      "name_en": "Zhejiang Huamei Holding CO., LTD.",
+      "stock_code": "000607"
+    },
+    {
+      "id": "A002461",
+      "name_cn": "珠江啤酒",
+      "name_en": "Guangzhou Zhujiang Brewery Co., Ltd.",
+      "stock_code": "002461"
+    },
+    {
+      "id": "HK08475",
+      "name_cn": "易站绿色科技",
+      "name_en": "E-STATION GTECH",
+      "stock_code": "08475"
+    },
+    {
+      "id": "A600278",
+      "name_cn": "东方创业",
+      "name_en": "Orient International Enterprise,Ltd.",
+      "stock_code": "600278"
+    },
+    {
+      "id": "HK06060",
+      "name_cn": "众安在线",
+      "name_en": "ZA ONLINE",
+      "stock_code": "06060"
+    },
+    {
+      "id": "HK02436",
+      "name_cn": "凌雄科技",
+      "name_en": "LX TECHNOLOGY",
+      "stock_code": "02436"
+    },
+    {
+      "id": "HK02138",
+      "name_cn": "医思健康",
+      "name_en": "EC HEALTHCARE",
+      "stock_code": "02138"
+    },
+    {
+      "id": "A301220",
+      "name_cn": "亚香股份",
+      "name_en": "Kunshan Asia Aroma Corp., Ltd.",
+      "stock_code": "301220"
+    },
+    {
+      "id": "A300615",
+      "name_cn": "欣天科技",
+      "name_en": "XDC Industries(ShenZhen) Limited",
+      "stock_code": "300615"
+    },
+    {
+      "id": "A001366",
+      "name_cn": "播恩集团",
+      "name_en": "Boen Group CO., LTD.",
+      "stock_code": "001366"
+    },
+    {
+      "id": "A300627",
+      "name_cn": "华测导航",
+      "name_en": "SHANGHAI HUACE NAVIGATION TECHNOLOGY LTD",
+      "stock_code": "300627"
+    },
+    {
+      "id": "HK06033",
+      "name_cn": "电讯数码控股",
+      "name_en": "TELECOM DIGIT",
+      "stock_code": "06033"
+    },
+    {
+      "id": "A688257",
+      "name_cn": "新锐股份",
+      "name_en": "新锐股份 Co., Ltd.",
+      "stock_code": "688257"
+    },
+    {
+      "id": "HK09979",
+      "name_cn": "绿城管理控股",
+      "name_en": "GREENTOWN MGMT",
+      "stock_code": "09979"
+    },
+    {
+      "id": "A002225",
+      "name_cn": "濮耐股份",
+      "name_en": "Puyang Refractories Group Co.,Ltd.",
+      "stock_code": "002225"
+    },
+    {
+      "id": "HK01239",
+      "name_cn": "TEAMWAY INTL GP",
+      "name_en": "TEAMWAY INTL GP",
+      "stock_code": "01239"
+    },
+    {
+      "id": "A603318",
+      "name_cn": "水发燃气",
+      "name_en": "水发燃气 Co., Ltd.",
+      "stock_code": "603318"
+    },
+    {
+      "id": "HK02239",
+      "name_cn": "国微控股",
+      "name_en": "SMIT",
+      "stock_code": "02239"
+    },
+    {
+      "id": "A002077",
+      "name_cn": "大港股份",
+      "name_en": "Jiangsu Dagang Co.,Ltd.",
+      "stock_code": "002077"
+    },
+    {
+      "id": "HK01591",
+      "name_cn": "汛和集团",
+      "name_en": "SHUN WO GROUP",
+      "stock_code": "01591"
+    },
+    {
+      "id": "A605167",
+      "name_cn": "利柏特",
+      "name_en": "利柏特 Co., Ltd.",
+      "stock_code": "605167"
+    },
+    {
+      "id": "HK01653",
+      "name_cn": "MOS HOUSE",
+      "name_en": "MOS HOUSE",
+      "stock_code": "01653"
+    },
+    {
+      "id": "A002594",
+      "name_cn": "比亚迪",
+      "name_en": "BYD Company Limited",
+      "stock_code": null
+    },
+    {
+      "id": "A002617",
+      "name_cn": "露笑科技",
+      "name_en": "Roshow Technology Co.,Ltd",
+      "stock_code": "002617"
+    },
+    {
+      "id": "HK00423",
+      "name_cn": "经济日报集团",
+      "name_en": "HKET HOLDINGS",
+      "stock_code": "00423"
+    },
+    {
+      "id": "A603199",
+      "name_cn": "九华旅游",
+      "name_en": "九华旅游 Co., Ltd.",
+      "stock_code": "603199"
+    },
+    {
+      "id": "HK09978",
+      "name_cn": "方圆生活服务",
+      "name_en": "FINELAND LIVING",
+      "stock_code": "09978"
+    },
+    {
+      "id": "A688089",
+      "name_cn": "嘉必优",
+      "name_en": "嘉必优 Co., Ltd.",
+      "stock_code": "688089"
+    },
+    {
+      "id": "A002973",
+      "name_cn": "侨银股份",
+      "name_en": "QiaoYin City Management Co., Ltd.",
+      "stock_code": "002973"
+    },
+    {
+      "id": "A300838",
+      "name_cn": "浙江力诺",
+      "name_en": "Zhejiang Lenor Flow Control Technology Co.,Ltd.",
+      "stock_code": "300838"
+    },
+    {
+      "id": "A605008",
+      "name_cn": "长鸿高科",
+      "name_en": "长鸿高科 Co., Ltd.",
+      "stock_code": "605008"
+    },
+    {
+      "id": "HK03880",
+      "name_cn": "泰德医药",
+      "name_en": "MEDTIDE",
+      "stock_code": "03880"
+    },
+    {
+      "id": "A688707",
+      "name_cn": "振华新材",
+      "name_en": "振华新材 Co., Ltd.",
+      "stock_code": "688707"
+    },
+    {
+      "id": "A600958",
+      "name_cn": "东方证券",
+      "name_en": "东方证券 Co., Ltd.",
+      "stock_code": "600958"
+    },
+    {
+      "id": "A300370",
+      "name_cn": "安控科技",
+      "name_en": "Sichuan Etrol Technologies Co., Ltd.",
+      "stock_code": "300370"
+    },
+    {
+      "id": "HK08472",
+      "name_cn": "立高控股",
+      "name_en": "LAPCO HOLDINGS",
+      "stock_code": "08472"
+    },
+    {
+      "id": "A605500",
+      "name_cn": "森林包装",
+      "name_en": "森林包装 Co., Ltd.",
+      "stock_code": "605500"
+    },
+    {
+      "id": "HK01532",
+      "name_cn": "中国派对文化",
+      "name_en": "CHINA PARTYTIME",
+      "stock_code": "01532"
+    },
+    {
+      "id": "HK01220",
+      "name_cn": "志道国际",
+      "name_en": "ZHIDAO INT'L",
+      "stock_code": "01220"
+    },
+    {
+      "id": "HK00763",
+      "name_cn": "中兴通讯",
+      "name_en": "ZTE",
+      "stock_code": "00763"
+    },
+    {
+      "id": "A300259",
+      "name_cn": "新天科技",
+      "name_en": "Suntront Technolocy Co., Ltd.",
+      "stock_code": "300259"
+    },
+    {
+      "id": "HK01033",
+      "name_cn": "中石化油服",
+      "name_en": "SINOPEC SSC",
+      "stock_code": "01033"
+    },
+    {
+      "id": "A301267",
+      "name_cn": "华厦眼科",
+      "name_en": "Huaxia Eye Hospital Group Co., Ltd.",
+      "stock_code": "301267"
+    },
+    {
+      "id": "A600685",
+      "name_cn": "中船防务",
+      "name_en": "中船防务 Co., Ltd.",
+      "stock_code": "600685"
+    },
+    {
+      "id": "HK00570",
+      "name_cn": "中国中药",
+      "name_en": "TRAD CHI MED",
+      "stock_code": "00570"
+    },
+    {
+      "id": "A600397",
+      "name_cn": "江钨装备",
+      "name_en": "Anyuan Coal Industry Co., Ltd.",
+      "stock_code": "600397"
+    },
+    {
+      "id": "A601238",
+      "name_cn": "广汽集团",
+      "name_en": "Guangzhou Automobile Group Co., Ltd.",
+      "stock_code": null
+    },
+    {
+      "id": "HK08023",
+      "name_cn": "邝文记",
+      "name_en": "KWONG MAN KEE",
+      "stock_code": "08023"
+    },
+    {
+      "id": "A603871",
+      "name_cn": "嘉友国际",
+      "name_en": "嘉友国际 Co., Ltd.",
+      "stock_code": "603871"
+    },
+    {
+      "id": "A601908",
+      "name_cn": "京运通",
+      "name_en": "京运通 Co., Ltd.",
+      "stock_code": "601908"
+    },
+    {
+      "id": "A002551",
+      "name_cn": "尚荣医疗",
+      "name_en": "Shenzhen Glory Medical Co.,Ltd.",
+      "stock_code": "002551"
+    },
+    {
+      "id": "A300686",
+      "name_cn": "智动力",
+      "name_en": "Shenzhen CDL Precision Technology Co., Ltd.",
+      "stock_code": "300686"
+    },
+    {
+      "id": "A300485",
+      "name_cn": "赛升药业",
+      "name_en": "Beijing Science Sun Pharmaceutical Co.,LTD.",
+      "stock_code": "300485"
+    },
+    {
+      "id": "A002029",
+      "name_cn": "七匹狼",
+      "name_en": "FUJIAN SEPTWOLVES INDUSTRY CO., LTD.",
+      "stock_code": "002029"
+    },
+    {
+      "id": "A301658",
+      "name_cn": "首航新能",
+      "name_en": "Shenzhen SOFARSOLAR Co., Ltd.",
+      "stock_code": "301658"
+    },
+    {
+      "id": "A000632",
+      "name_cn": "三木集团",
+      "name_en": "Fujian Sanmu Group Co.,Ltd.",
+      "stock_code": "000632"
+    },
+    {
+      "id": "A688506",
+      "name_cn": "百利天恒",
+      "name_en": "百利天恒 Co., Ltd.",
+      "stock_code": "688506"
+    },
+    {
+      "id": "A688126",
+      "name_cn": "沪硅产业",
+      "name_en": "沪硅产业 Co., Ltd.",
+      "stock_code": "688126"
+    },
+    {
+      "id": "A300535",
+      "name_cn": "达威股份",
+      "name_en": "Sichuan Dowell Science and Technology Inc.",
+      "stock_code": "300535"
+    },
+    {
+      "id": "A688507",
+      "name_cn": "索辰科技",
+      "name_en": "索辰科技 Co., Ltd.",
+      "stock_code": "688507"
+    },
+    {
+      "id": "A300445",
+      "name_cn": "康斯特",
+      "name_en": "Beijing ConST Instruments Technology Inc.",
+      "stock_code": "300445"
+    },
+    {
+      "id": "A000159",
+      "name_cn": "国际实业",
+      "name_en": "Xinjiang International Industry Co., Ltd.",
+      "stock_code": "000159"
+    },
+    {
+      "id": "A002094",
+      "name_cn": "青岛金王",
+      "name_en": "Qingdao Kingking Applied Chemistry Co., Ltd.",
+      "stock_code": "002094"
+    },
+    {
+      "id": "HK00975",
+      "name_cn": "MONGOL MINING",
+      "name_en": "MONGOL MINING",
+      "stock_code": "00975"
+    },
+    {
+      "id": "HK00130",
+      "name_cn": "慕诗国际",
+      "name_en": "MOISELLE INT'L",
+      "stock_code": "00130"
+    },
+    {
+      "id": "A001380",
+      "name_cn": "华纬科技",
+      "name_en": "Hwaway Technology Corporation Limited",
+      "stock_code": "001380"
+    },
+    {
+      "id": "A300522",
+      "name_cn": "世名科技",
+      "name_en": "Suzhou Sunmun Technology Co., Ltd.",
+      "stock_code": "300522"
+    },
+    {
+      "id": "A002060",
+      "name_cn": "广东建工",
+      "name_en": "Guangdong Construction Engineering Group Co., Ltd.",
+      "stock_code": "002060"
+    },
+    {
+      "id": "HK08098",
+      "name_cn": "昌利控股",
+      "name_en": "CL GROUP",
+      "stock_code": "08098"
+    },
+    {
+      "id": "A000790",
+      "name_cn": "华神科技",
+      "name_en": "Chengdu huasun technology group Inc., LTD.",
+      "stock_code": "000790"
+    },
+    {
+      "id": "HK03316",
+      "name_cn": "滨江服务",
+      "name_en": "BINJIANG SER",
+      "stock_code": "03316"
+    },
+    {
+      "id": "A301529",
+      "name_cn": "福赛科技",
+      "name_en": "WuHu Foresight Technology Co.,Ltd.",
+      "stock_code": "301529"
+    },
+    {
+      "id": "A002093",
+      "name_cn": "国脉科技",
+      "name_en": "Guomai Technologies,Inc.",
+      "stock_code": "002093"
+    },
+    {
+      "id": "A603803",
+      "name_cn": "瑞斯康达",
+      "name_en": "瑞斯康达 Co., Ltd.",
+      "stock_code": "603803"
+    },
+    {
+      "id": "A300603",
+      "name_cn": "立昂技术",
+      "name_en": "LEON TECHNOLOGY CO., LTD.",
+      "stock_code": "300603"
+    },
+    {
+      "id": "A300955",
+      "name_cn": "嘉亨家化",
+      "name_en": "Jahen Household Products Co., Ltd.",
+      "stock_code": "300955"
+    },
+    {
+      "id": "HK00540",
+      "name_cn": "迅捷环球控股",
+      "name_en": "SPEEDY GLOBAL",
+      "stock_code": "00540"
+    },
+    {
+      "id": "A603312",
+      "name_cn": "西典新能",
+      "name_en": "西典新能 Co., Ltd.",
+      "stock_code": "603312"
+    },
+    {
+      "id": "A300394",
+      "name_cn": "天孚通信",
+      "name_en": "Suzhou TFC Optical Communication Co., Ltd.",
+      "stock_code": "300394"
+    },
+    {
+      "id": "A002657",
+      "name_cn": "中科金财",
+      "name_en": "SINODATA CO., LTD.",
+      "stock_code": "002657"
+    },
+    {
+      "id": "HK01143",
+      "name_cn": "中国储能科技发展",
+      "name_en": "CN ENGY STORAGE",
+      "stock_code": "01143"
+    },
+    {
+      "id": "HK08629",
+      "name_cn": "集信国控",
+      "name_en": "SYNTRUST GK",
+      "stock_code": "08629"
+    },
+    {
+      "id": "HK06162",
+      "name_cn": "天瑞汽车内饰",
+      "name_en": "TR INTERIORS",
+      "stock_code": "06162"
+    },
+    {
+      "id": "A688292",
+      "name_cn": "浩瀚深度",
+      "name_en": "浩瀚深度 Co., Ltd.",
+      "stock_code": "688292"
+    },
+    {
+      "id": "A688338",
+      "name_cn": "赛科希德",
+      "name_en": "赛科希德 Co., Ltd.",
+      "stock_code": "688338"
+    },
+    {
+      "id": "A603177",
+      "name_cn": "德创环保",
+      "name_en": "德创环保 Co., Ltd.",
+      "stock_code": "603177"
+    },
+    {
+      "id": "A300645",
+      "name_cn": "正元智慧",
+      "name_en": "ZHENGYUAN ZHIHUI GROUP CO.,LTD.",
+      "stock_code": "300645"
+    },
+    {
+      "id": "HK01854",
+      "name_cn": "中国万天控股",
+      "name_en": "CHINA WANTIAN",
+      "stock_code": "01854"
+    },
+    {
+      "id": "A603179",
+      "name_cn": "新泉股份",
+      "name_en": "新泉股份 Co., Ltd.",
+      "stock_code": "603179"
+    },
+    {
+      "id": "HK02149",
+      "name_cn": "贝克微",
+      "name_en": "BATELAB",
+      "stock_code": "02149"
+    },
+    {
+      "id": "A600764",
+      "name_cn": "中国海防",
+      "name_en": "中国海防 Co., Ltd.",
+      "stock_code": "600764"
+    },
+    {
+      "id": "A300155",
+      "name_cn": "安居宝",
+      "name_en": "Guangdong Anjubao Digital Technology Co.,Ltd.",
+      "stock_code": "300155"
+    },
+    {
+      "id": "A002303",
+      "name_cn": "美盈森",
+      "name_en": "MYS Group Co., Ltd.",
+      "stock_code": "002303"
+    },
+    {
+      "id": "A002329",
+      "name_cn": "皇氏集团",
+      "name_en": "Royal Group Co.,Ltd.",
+      "stock_code": "002329"
+    },
+    {
+      "id": "HK00413",
+      "name_cn": "南华集团控股",
+      "name_en": "SC HOLDINGS",
+      "stock_code": "00413"
+    },
+    {
+      "id": "A601077",
+      "name_cn": "渝农商行",
+      "name_en": "渝农商行 Co., Ltd.",
+      "stock_code": "601077"
+    },
+    {
+      "id": "A600176",
+      "name_cn": "中国巨石",
+      "name_en": "China Jushi Co.,Ltd.",
+      "stock_code": "600176"
+    },
+    {
+      "id": "A600961",
+      "name_cn": "株冶集团",
+      "name_en": "株冶集团 Co., Ltd.",
+      "stock_code": "600961"
+    },
+    {
+      "id": "A600807",
+      "name_cn": "济高发展",
+      "name_en": "济高发展 Co., Ltd.",
+      "stock_code": "600807"
+    },
+    {
+      "id": "A603112",
+      "name_cn": "华翔股份",
+      "name_en": "华翔股份 Co., Ltd.",
+      "stock_code": "603112"
+    },
+    {
+      "id": "HK03600",
+      "name_cn": "现代牙科",
+      "name_en": "MODERN DENTAL",
+      "stock_code": "03600"
+    },
+    {
+      "id": "HK01209",
+      "name_cn": "华润万象生活",
+      "name_en": "CHINA RES MIXC",
+      "stock_code": "01209"
+    },
+    {
+      "id": "A001300",
+      "name_cn": "三柏硕",
+      "name_en": "Sportsoul Co.,Ltd.",
+      "stock_code": "001300"
+    },
+    {
+      "id": "HK00587",
+      "name_cn": "海螺环保",
+      "name_en": "CONCH ENVIRO",
+      "stock_code": "00587"
+    },
+    {
+      "id": "HK00358",
+      "name_cn": "江西铜业股份",
+      "name_en": "JIANGXI COPPER",
+      "stock_code": "00358"
+    },
+    {
+      "id": "HK00288",
+      "name_cn": "万洲国际",
+      "name_en": "WH Group Limited",
+      "stock_code": null
+    },
+    {
+      "id": "A002343",
+      "name_cn": "慈文传媒",
+      "name_en": "Ciwen Media Co.,Ltd.",
+      "stock_code": "002343"
+    },
+    {
+      "id": "A001872",
+      "name_cn": "招商港口",
+      "name_en": "China Merchants Port Holdings Co., Ltd.",
+      "stock_code": "001872"
+    },
+    {
+      "id": "A600722",
+      "name_cn": "金牛化工",
+      "name_en": "金牛化工 Co., Ltd.",
+      "stock_code": "600722"
+    },
+    {
+      "id": "HK01201",
+      "name_cn": "天臣控股",
+      "name_en": "TESSON HOLDINGS",
+      "stock_code": "01201"
+    },
+    {
+      "id": "A600004",
+      "name_cn": "白云机场",
+      "name_en": "Guangzhou Baiyun International Airport Co., Ltd.",
+      "stock_code": null
+    },
+    {
+      "id": "HK02020",
+      "name_cn": "安踏体育",
+      "name_en": "ANTA Sports Products Limited",
+      "stock_code": null
+    },
+    {
+      "id": "HK03348",
+      "name_cn": "中国鹏飞集团",
+      "name_en": "CHINA PENGFEI",
+      "stock_code": "03348"
+    },
+    {
+      "id": "A002438",
+      "name_cn": "江苏神通",
+      "name_en": "Jiangsu Shentong Valve Co.,Ltd",
+      "stock_code": "002438"
+    },
+    {
+      "id": "A300692",
+      "name_cn": "中赋科技",
+      "name_en": "Anhui Orivie Technology Co.,Ltd",
+      "stock_code": "300692"
+    },
+    {
+      "id": "A300169",
+      "name_cn": "天晟新材",
+      "name_en": "Changzhou Tiansheng New Materials Group Co., Ltd.",
+      "stock_code": "300169"
+    },
+    {
+      "id": "A300154",
+      "name_cn": "瑞凌股份",
+      "name_en": "SHENZHEN RILAND INDUSTRY GROUP CO.,LTD.",
+      "stock_code": "300154"
+    },
+    {
+      "id": "A605300",
+      "name_cn": "佳禾食品",
+      "name_en": "佳禾食品 Co., Ltd.",
+      "stock_code": "605300"
+    },
+    {
+      "id": "A601827",
+      "name_cn": "三峰环境",
+      "name_en": "三峰环境 Co., Ltd.",
+      "stock_code": "601827"
+    },
+    {
+      "id": "A002735",
+      "name_cn": "王子新材",
+      "name_en": "Shenzhen Prince New Materials Co.,Ltd.",
+      "stock_code": "002735"
+    },
+    {
+      "id": "A300085",
+      "name_cn": "银之杰",
+      "name_en": "Shenzhen Infogem Technologies Co.,Ltd.",
+      "stock_code": "300085"
+    },
+    {
+      "id": "A603072",
+      "name_cn": "天和磁材",
+      "name_en": "天和磁材 Co., Ltd.",
+      "stock_code": "603072"
+    },
+    {
+      "id": "A300702",
+      "name_cn": "天宇股份",
+      "name_en": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
+      "stock_code": "300702"
+    },
+    {
+      "id": "HK03928",
+      "name_cn": "中国新零售供应链",
+      "name_en": "CHINA NEXT-GEN",
+      "stock_code": "03928"
+    },
+    {
+      "id": "HK08373",
+      "name_cn": "靛蓝星",
+      "name_en": "INDIGO STAR",
+      "stock_code": "08373"
+    },
+    {
+      "id": "A002133",
+      "name_cn": "广宇集团",
+      "name_en": "Cosmos Group Co., Ltd.",
+      "stock_code": "002133"
+    },
+    {
+      "id": "A601606",
+      "name_cn": "长城军工",
+      "name_en": "长城军工 Co., Ltd.",
+      "stock_code": "601606"
+    },
+    {
+      "id": "HK02155",
+      "name_cn": "森松国际",
+      "name_en": "MORIMATSU INTL",
+      "stock_code": "02155"
+    },
+    {
+      "id": "HK03339",
+      "name_cn": "中国龙工",
+      "name_en": "LONKING",
+      "stock_code": "03339"
+    },
+    {
+      "id": "HK02885",
+      "name_cn": "彼岸控股",
+      "name_en": "PEIPORT HOLD",
+      "stock_code": "02885"
+    },
+    {
+      "id": "A688095",
+      "name_cn": "福昕软件",
+      "name_en": "福昕软件 Co., Ltd.",
+      "stock_code": "688095"
+    },
+    {
+      "id": "A002338",
+      "name_cn": "奥普光电",
+      "name_en": "Changchun UP Optotech Co.,Ltd.",
+      "stock_code": "002338"
+    },
+    {
+      "id": "A001231",
+      "name_cn": "农心科技",
+      "name_en": "Norsyn Crop Technology Co., Ltd.",
+      "stock_code": "001231"
+    },
+    {
+      "id": "HK00345",
+      "name_cn": "VITASOY INT'L",
+      "name_en": "VITASOY INT'L",
+      "stock_code": "00345"
+    },
+    {
+      "id": "A688001",
+      "name_cn": "华兴源创",
+      "name_en": "华兴源创 Co., Ltd.",
+      "stock_code": "688001"
+    },
+    {
+      "id": "HK02502",
+      "name_cn": "金源氢化",
+      "name_en": "JINYUAN HCHEM",
+      "stock_code": "02502"
+    },
+    {
+      "id": "A000548",
+      "name_cn": "湖南投资",
+      "name_en": "Hunan Investment Group Co.,Ltd.",
+      "stock_code": "000548"
+    },
+    {
+      "id": "A002295",
+      "name_cn": "精艺股份",
+      "name_en": "GuangdongJingYiMetalCO.,Ltd",
+      "stock_code": "002295"
+    },
+    {
+      "id": "HK08427",
+      "name_cn": "万顺瑞强集团",
+      "name_en": "WS-SK TARGET",
+      "stock_code": "08427"
+    },
+    {
+      "id": "HK01515",
+      "name_cn": "华润医疗",
+      "name_en": "CR MEDICAL",
+      "stock_code": "01515"
+    },
+    {
+      "id": "HK02656",
+      "name_cn": "健康１６０",
+      "name_en": "160 HEALTH",
+      "stock_code": "02656"
+    },
+    {
+      "id": "A300590",
+      "name_cn": "移为通信",
+      "name_en": "Queclink Wireless Solutions Co., Ltd.",
+      "stock_code": "300590"
+    },
+    {
+      "id": "A002984",
+      "name_cn": "森麒麟",
+      "name_en": "QINGDAO SENTURY TIRE CO., LTD.",
+      "stock_code": "002984"
+    },
+    {
+      "id": "A600758",
+      "name_cn": "辽宁能源",
+      "name_en": "辽宁能源 Co., Ltd.",
+      "stock_code": "600758"
+    },
+    {
+      "id": "A603315",
+      "name_cn": "福鞍股份",
+      "name_en": "福鞍股份 Co., Ltd.",
+      "stock_code": "603315"
+    },
+    {
+      "id": "A603271",
+      "name_cn": "永杰新材",
+      "name_en": "永杰新材 Co., Ltd.",
+      "stock_code": "603271"
+    },
+    {
+      "id": "A300388",
+      "name_cn": "节能国祯",
+      "name_en": "CECEP Guozhen Environmental Protection Technology Co., Ltd.",
+      "stock_code": "300388"
+    },
+    {
+      "id": "HK03623",
+      "name_cn": "中国金融发展",
+      "name_en": "C SUCCESS FIN",
+      "stock_code": "03623"
+    },
+    {
+      "id": "A600708",
+      "name_cn": "光明地产",
+      "name_en": "光明地产 Co., Ltd.",
+      "stock_code": "600708"
+    },
+    {
+      "id": "HK08057",
+      "name_cn": "麦迪森控股",
+      "name_en": "MADISON HLDG",
+      "stock_code": "08057"
+    },
+    {
+      "id": "A001378",
+      "name_cn": "德冠新材",
+      "name_en": "Guangdong Decro Film New Materials Co., Ltd.",
+      "stock_code": "001378"
+    }
+  ]
+}

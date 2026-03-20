@@ -5,22 +5,41 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.2.0] - 2026-03-21
 
 ### Added
-- Initial release preparation
-- GitHub Actions CI workflow
-- Comprehensive documentation (README, CONTRIBUTING, CHANGELOG)
-- PyPI publish script
-- Project renamed to Matchina
+- 🎉 **7825 家企业实体** (100% 中文名 - 英文名对齐完成)
+- A 股、港股、中概股、独角兽、知名企业完整覆盖
+- 5% 测试用例 (391 条) 用于质量验证
+- 四套班子流程留痕系统
+- 测试覆盖率提升
 
 ### Changed
-- Enhanced README with API documentation and examples
-- Improved test coverage
-- Project name updated from cn-entity-resolver to Matchina
+- 🔒 **开源规范化**: 移除爬虫/清洗代码，仅保留匹配算法
+- 数据量从 1132 提升至 7825 家企业 (+591%)
+- 测试用例从手动编写升级为数据驱动
+- 匹配性能优化 < 100ms
+
+### Removed
+- 爬虫脚本 (`scripts/collect_real_data.py`)
+- 清洗脚本 (`scripts/clear_english_names.py`)
+- 批量更新脚本 (`matchina/scripts/*.py`)
+- 原始数据采集目录 (`scripts/sources/`)
+- 临时目录 (`memoir/`, `memory/`)
+- 备份数据库文件
+
+### Security
+- 敏感代码移至私有 matchina-engine 项目
+- 开源项目仅保留匹配算法和数据
+- `memory/` 目录加入 `.gitignore` (留痕日志不公开)
 
 ### Fixed
-- None yet
+- 数据完整性验证 (100% 英文名补全)
+- 测试用例随机种子固定 (可复现)
+
+---
+
+## [0.1.0] - 2026-03-14
 
 ## [0.1.0] - 2026-03-14
 

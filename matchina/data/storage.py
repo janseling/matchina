@@ -4,7 +4,6 @@
 
 import sqlite3
 from pathlib import Path
-from typing import Optional
 
 from ..models.entity import Entity
 
@@ -24,7 +23,7 @@ class DataStorage:
             db_path = str(Path(__file__).parent / "entities.db")
 
         self.db_path = db_path
-        self._conn: Optional[sqlite3.Connection] = None
+        self._conn: sqlite3.Connection | None = None
 
     @property
     def conn(self) -> sqlite3.Connection:

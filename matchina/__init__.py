@@ -10,8 +10,6 @@ Example:
     华为技术有限公司
 """
 
-from typing import Optional
-
 from .core.matcher import EntityMatcher, MatchResult
 from .models.entity import Entity
 
@@ -19,7 +17,7 @@ __version__ = "0.1.0"
 __all__ = ["resolve", "search", "resolve_batch", "EntityMatcher", "MatchResult", "Entity"]
 
 # 全局 matcher 实例（懒加载）
-_matcher: "Optional[EntityMatcher]" = None
+_matcher: EntityMatcher | None = None
 
 
 def _get_matcher() -> EntityMatcher:

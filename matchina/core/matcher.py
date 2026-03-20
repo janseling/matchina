@@ -28,7 +28,7 @@ class EntityMatcher:
         华为技术有限公司
     """
 
-    def __init__(self, db_path: Optional[str] = None, fuzzy_threshold: float = 0.75):
+    def __init__(self, db_path: str | None = None, fuzzy_threshold: float = 0.75):
         """
         初始化匹配器
 

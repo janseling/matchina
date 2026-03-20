@@ -12,11 +12,11 @@ class Entity:
 
     id: str
     name_cn: str
-    name_en: Optional[str] = None
-    name_short_cn: Optional[str] = None
-    name_short_en: Optional[str] = None
-    aliases: List[str] = field(default_factory=list)
-    status: Optional[str] = None
+    name_en: str | None = None
+    name_short_cn: str | None = None
+    name_short_en: str | None = None
+    aliases: list[str] = field(default_factory=list)
+    status: str | None = None
 
     def to_dict(self) -> dict:
         return {
@@ -53,3 +53,4 @@ class MatchResult:
 
     def __repr__(self) -> str:
         return f"MatchResult({self.name_cn}, conf={self.confidence:.2f}, type={self.match_type})"
+_type})"

@@ -12,7 +12,7 @@ from ..models.entity import Entity
 class DataStorage:
     """SQLite 数据存储"""
 
-    def __init__(self, db_path: Optional[str] = None):
+    def __init__(self, db_path: str | None = None):
         """
         初始化数据存储
 

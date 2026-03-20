@@ -54,3 +54,4 @@ class MatchResult:
     def __repr__(self) -> str:
         return f"MatchResult({self.name_cn}, conf={self.confidence:.2f}, type={self.match_type})"
 pe})"
+pe})"

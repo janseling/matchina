@@ -41,9 +41,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/xxx/matchina"
-Repository = "https://github.com/xxx/matchina"
-Documentation = "https://github.com/xxx/matchina#readme"
+Homepage = "https://github.com/janseling/matchina"
+Repository = "https://github.com/janseling/matchina.git"
+Documentation = "https://github.com/janseling/matchina#readme"
+Changelog = "https://github.com/janseling/matchina/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["."]

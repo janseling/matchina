@@ -161,6 +161,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Changelog
 
+### v0.2.0 (2026-03-21)
+
+- 🎉 Data expanded to **7825 enterprises** (100% English name completion)
+- ✅ Complete A-share, HK stock, US-listed coverage
+- 🔒 Code cleanup: removed data collection scripts, kept only matching algorithms
+- 📊 Added 5% test samples (391 records) for quality validation
+- ⚡ Match performance optimized to < 100ms
+
 ### v0.1.0 (2026-03-14)
 
 - Initial release

@@ -11,27 +11,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 🎉 **7825 家企业实体** (100% 中文名 - 英文名对齐完成)
 - A 股、港股、中概股、独角兽、知名企业完整覆盖
 - 5% 测试用例 (391 条) 用于质量验证
-- 四套班子流程留痕系统
 - 测试覆盖率提升
 
 ### Changed
-- 🔒 **开源规范化**: 移除爬虫/清洗代码，仅保留匹配算法
+- 🔒 **代码规范化**: 移除数据采集脚本，仅保留匹配算法
 - 数据量从 1132 提升至 7825 家企业 (+591%)
 - 测试用例从手动编写升级为数据驱动
 - 匹配性能优化 < 100ms
 
 ### Removed
-- 爬虫脚本 (`scripts/collect_real_data.py`)
-- 清洗脚本 (`scripts/clear_english_names.py`)
-- 批量更新脚本 (`matchina/scripts/*.py`)
-- 原始数据采集目录 (`scripts/sources/`)
-- 临时目录 (`memoir/`, `memory/`)
-- 备份数据库文件
+- 数据采集脚本
+- 临时目录和备份文件
 
 ### Security
-- 敏感代码移至私有 matchina-engine 项目
+- 敏感代码移至私有项目
 - 开源项目仅保留匹配算法和数据
-- `memory/` 目录加入 `.gitignore` (留痕日志不公开)
+- 日志目录加入 `.gitignore`
 
 ### Fixed
 - 数据完整性验证 (100% 英文名补全)

@@ -35,16 +35,17 @@ def matcher():
     return EntityMatcher()
 
 
+@pytest.fixture
+def test_data():
+    """全局 test_data fixture"""
+    data_path = Path(__file__).parent / "test_data.json"
+    with open(data_path, encoding='utf-8') as f:
+        data = json.load(f)
+    return data['records']
+
+
 class TestMatcherWithTestData:
     """使用测试用例数据的匹配器测试"""
-
-    @pytest.fixture
-    def test_data(self):
-        """加载测试用例数据"""
-        data_path = Path(__file__).parent / "test_data.json"
-        with open(data_path, encoding='utf-8') as f:
-            data = json.load(f)
-        return data['records']
 
     def test_load_test_data(self, test_data):
         """测试加载测试数据"""

@@ -3,7 +3,7 @@
 """
 
 from dataclasses import dataclass, field
-from typing import Optional
+from typing import Optional, List
 
 
 @dataclass
@@ -15,7 +15,7 @@ class Entity:
     name_en: Optional[str] = None
     name_short_cn: Optional[str] = None
     name_short_en: Optional[str] = None
-    aliases: list[str] = field(default_factory=list)
+    aliases: List[str] = field(default_factory=list)
     status: Optional[str] = None
 
     def to_dict(self) -> dict:
@@ -53,5 +53,3 @@ class MatchResult:
 
     def __repr__(self) -> str:
         return f"MatchResult({self.name_cn}, conf={self.confidence:.2f}, type={self.match_type})"
-pe})"
-pe})"

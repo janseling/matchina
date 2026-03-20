@@ -9,7 +9,6 @@
 """
 
 from abc import ABC, abstractmethod
-from typing import Optional
 
 from ..data.storage import DataStorage
 from ..models.entity import MatchResult
@@ -20,7 +19,7 @@ class BaseStrategy(ABC):
     """匹配策略基类"""
 
     @abstractmethod
-    def match(self, query: str, storage: DataStorage) -> Optional[MatchResult]:
+    def match(self, query: str, storage: DataStorage) -> MatchResult | None:
         """
         执行匹配
 

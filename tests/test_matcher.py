@@ -40,9 +40,6 @@ class TestMatcherWithTestData:
 
     @pytest.fixture
     def test_data(self):
-
-    @pytest.fixture
-    def test_data(self):
         """加载测试用例数据"""
         data_path = Path(__file__).parent / "test_data.json"
         with open(data_path, encoding='utf-8') as f:

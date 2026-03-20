@@ -28,13 +28,18 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+@pytest.fixture
+def matcher():
+    """全局 matcher fixture"""
+    from matchina import EntityMatcher
+    return EntityMatcher()
+
+
 class TestMatcherWithTestData:
     """使用测试用例数据的匹配器测试"""
 
     @pytest.fixture
-    def matcher(self):
-        from matchina import EntityMatcher
-        return EntityMatcher()
+    def test_data(self):
 
     @pytest.fixture
     def test_data(self):

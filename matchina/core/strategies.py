@@ -41,7 +41,7 @@ class ExactStrategy(BaseStrategy):
     置信度: 1.0
     """
 
-    def match(self, query: str, storage: DataStorage) -> Optional[MatchResult]:
+    def match(self, query: str, storage: DataStorage) -> MatchResult | None:
         # 中文精确匹配
         entity = storage.get_entity_by_name_cn(query)
         if entity:
@@ -90,7 +90,7 @@ class AliasStrategy(BaseStrategy):
     置信度: 0.95
     """
 
-    def match(self, query: str, storage: DataStorage) -> Optional[MatchResult]:
+    def match(self, query: str, storage: DataStorage) -> MatchResult | None:
         # 直接别名匹配
         entity = storage.get_entity_by_alias(query)
         if entity:
@@ -142,7 +142,7 @@ class RuleStrategy(BaseStrategy):
         "xm": "xiaomi",
     }
 
-    def match(self, query: str, storage: DataStorage) -> Optional[MatchResult]:
+    def match(self, query: str, storage: DataStorage) -> MatchResult | None:
         normalized = normalize(query, remove_suffix=True)
 
         # 移除后缀后匹配
@@ -201,7 +201,7 @@ class FuzzyStrategy(BaseStrategy):
         """
         self.threshold = threshold
 
-    def match(self, query: str, storage: DataStorage) -> Optional[MatchResult]:
+    def match(self, query: str, storage: DataStorage) -> MatchResult | None:
         # 获取所有名称
         all_names = storage.get_all_names()
         if not all_names:

@@ -34,7 +34,7 @@ class DataStorage:
             self._conn.row_factory = sqlite3.Row
         return self._conn
 
-    def get_entity_by_id(self, entity_id: str) -> Optional[Entity]:
+    def get_entity_by_id(self, entity_id: str) -> Entity | None:
         """根据 ID 获取实体"""
         cursor = self.conn.execute(
             "SELECT * FROM entities WHERE id = ?", (entity_id,)
@@ -44,7 +44,7 @@ class DataStorage:
             return self._row_to_entity(row)
         return None
 
-    def get_entity_by_name_cn(self, name: str) -> Optional[Entity]:
+    def get_entity_by_name_cn(self, name: str) -> Entity | None:
         """根据中文名精确匹配"""
         cursor = self.conn.execute(
             "SELECT * FROM entities WHERE name_cn = ? OR name_short_cn = ?",
@@ -55,7 +55,7 @@ class DataStorage:
             return self._row_to_entity(row)
         return None
 
-    def get_entity_by_name_en(self, name: str) -> Optional[Entity]:
+    def get_entity_by_name_en(self, name: str) -> Entity | None:
         """根据英文名精确匹配"""
         name_lower = name.lower()
         cursor = self.conn.execute(
@@ -67,7 +67,7 @@ class DataStorage:
             return self._row_to_entity(row)
         return None
 
-    def get_entity_by_alias(self, alias: str) -> Optional[Entity]:
+    def get_entity_by_alias(self, alias: str) -> Entity | None:
         """根据别名匹配"""
         cursor = self.conn.execute(
             """

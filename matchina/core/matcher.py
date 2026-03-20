@@ -4,8 +4,6 @@
 整合四层匹配策略，按置信度降序返回结果。
 """
 
-from typing import Optional
-
 from ..data.storage import DataStorage
 from ..models.entity import MatchResult
 from .strategies import AliasStrategy, ExactStrategy, FuzzyStrategy, RuleStrategy

@@ -1,31 +1,12 @@
 """
 测试匹配器 - 使用测试用例数据
-符合四套班子流程留痕要求
 """
 
 import json
-import logging
 import time
-from datetime import datetime
 from pathlib import Path
 
 import pytest
-
-# 配置日志 - 四套班子留痕系统
-LOG_DIR = Path(__file__).parent.parent / "memory" / "logs"
-LOG_DIR.mkdir(parents=True, exist_ok=True)
-LOG_FILE = LOG_DIR / f"{datetime.now().strftime('%Y-%m-%d')}.jsonl"
-
-logging.basicConfig(
-    level=logging.INFO,
-    format='{"timestamp": "%(asctime)s", "session_id": "matchina-test", '
-           '"action": "%(levelname)s", "result": "%(message)s"}',
-    handlers=[
-        logging.FileHandler(LOG_FILE, encoding='utf-8'),
-        logging.StreamHandler(),
-    ],
-)
-logger = logging.getLogger(__name__)
 
 
 @pytest.fixture
@@ -109,7 +90,6 @@ class TestNormalizer:
         """测试繁体转简体"""
         from matchina.utils.normalizer import normalize
 
-        # 使用不会被后缀移除的词
         assert normalize("資訊") == "资讯"
         assert normalize("技術") == "技术"
 
@@ -176,20 +156,16 @@ class TestPerformance:
 
     def test_batch_resolve_performance(self, matcher, test_data):
         """测试批量匹配性能"""
-        import time
-
         names = [r['name_cn'] for r in test_data[:100]]
         start = time.time()
         for name in names:
             matcher.match(name)
         elapsed = time.time() - start
 
-        assert elapsed < 20.0  # 100 次匹配应该在 20 秒内完成 (CI 环境较慢)
+        assert elapsed < 20.0
 
     def test_batch_resolve_unique_names(self, matcher, test_data):
         """测试批量匹配唯一名称"""
-        import time
-
         unique_names = list(set([r['name_cn'] for r in test_data[:100]]))
         start = time.time()
         for name in unique_names:
@@ -200,8 +176,6 @@ class TestPerformance:
 
     def test_fuzzy_match_performance(self, matcher):
         """测试模糊匹配性能"""
-        import time
-
         query = "华威技术"
 
         start = time.time()
@@ -209,7 +183,7 @@ class TestPerformance:
             matcher.match(query)
         elapsed = time.time() - start
 
-        assert elapsed < 30.0  # 100 次匹配应该在 30 秒内完成 (CI 环境较慢)
+        assert elapsed < 30.0
 
 
 if __name__ == "__main__":

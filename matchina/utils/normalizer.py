@@ -133,5 +133,3 @@ def extract_keywords(name: str) -> list[str]:
     # 简单分词：按空格和常见分隔符
     words = re.split(r"[\s\-_]+", normalized)
     return [w for w in words if w and len(w) > 1]
-words if w and len(w) > 1]
- return [w for w in words if w and len(w) > 1]

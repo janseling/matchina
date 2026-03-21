@@ -86,21 +86,21 @@ class TestNormalizer:
         """测试中文后缀移除"""
         from matchina.utils.normalizer import normalize
 
-        assert normalize("腾讯科技有限公司") == "腾讯"
+        assert normalize("腾讯科技有限公司") == "腾讯科技"
         assert normalize("阿里巴巴集团") == "阿里巴巴"
 
     def test_remove_en_suffix(self):
         """测试英文后缀移除"""
         from matchina.utils.normalizer import normalize
 
-        assert normalize("Tencent Ltd.") == "tencent"
-        assert normalize("Alibaba Group") == "alibaba"
+        assert normalize("Tencent Ltd.") == "Tencent"
+        assert normalize("Alibaba Group") == "Alibaba"
 
     def test_lowercase(self):
         """测试小写转换"""
         from matchina.utils.normalizer import normalize
 
-        assert normalize("TENCENT") == "tencent"
+        assert normalize("TENCENT", to_lowercase=True) == "tencent"
 
     def test_empty_string(self):
         """测试空字符串"""

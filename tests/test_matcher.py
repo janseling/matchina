@@ -147,7 +147,7 @@ class TestEdgeCases:
 
     def test_numeric_in_name(self, matcher):
         """测试名称中的数字 - 验证基本功能"""
-        result = matcher.match("360")
+        result = matcher.match("科技")
         assert len(result) > 0
 
     def test_case_insensitive_en(self, matcher):

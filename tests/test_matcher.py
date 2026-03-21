@@ -50,7 +50,6 @@ class TestMatcherWithTestData:
     def test_load_test_data(self, test_data):
         """测试加载测试数据"""
         assert len(test_data) == 391, f"预期 391 条记录，实际{len(test_data)}条"
-        logger.info(f"加载测试数据成功：{len(test_data)}条记录")
 
         # 验证数据格式
         assert 'id' in test_data[0]

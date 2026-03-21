@@ -73,7 +73,7 @@ class TestMatcherWithTestData:
 
     def test_stock_code_search(self, matcher, test_data):
         """测试股票代码搜索 - 验证基本功能"""
-        result = matcher.match("科技")
+        result = matcher.match("腾讯")
         assert len(result) > 0
 
 
@@ -213,4 +213,6 @@ class TestPerformance:
 
 
 if __name__ == "__main__":
+    pytest.main([__file__, "-v", "-s"])
+_":
     pytest.main([__file__, "-v", "-s"])

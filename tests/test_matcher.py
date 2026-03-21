@@ -110,8 +110,9 @@ class TestNormalizer:
         """测试繁体转简体"""
         from matchina.utils.normalizer import normalize
 
-        assert normalize("集團") == "集团"
-        assert normalize("網絡") == "网络"
+        # 使用不会被后缀移除的词
+        assert normalize("資訊") == "资讯"
+        assert normalize("技術") == "技术"
 
     def test_whitespace_cleanup(self):
         """测试空白字符清理"""
@@ -141,17 +142,17 @@ class TestEdgeCases:
 
     def test_mixed_language(self, matcher):
         """测试混合语言 - 验证基本功能"""
-        result = matcher.match("科技")
+        result = matcher.match("腾讯")
         assert len(result) > 0
 
     def test_numeric_in_name(self, matcher):
         """测试名称中的数字 - 验证基本功能"""
-        result = matcher.match("科技")
+        result = matcher.match("360")
         assert len(result) > 0
 
     def test_case_insensitive_en(self, matcher):
         """测试英文大小写不敏感 - 验证基本功能"""
-        result = matcher.match("科技")
+        result = matcher.match("Tencent")
         assert len(result) > 0
 
     def test_top_k_parameter(self, matcher):
@@ -213,6 +214,4 @@ class TestPerformance:
 
 
 if __name__ == "__main__":
-    pytest.main([__file__, "-v", "-s"])
-_":
     pytest.main([__file__, "-v", "-s"])

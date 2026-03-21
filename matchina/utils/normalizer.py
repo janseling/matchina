@@ -89,7 +89,7 @@ def _remove_suffixes(name: str) -> str:
             result = result[: -len(suffix)]
             break
 
-    # 英文后缀
+    # 英文后缀（不区分大小写）
     name_lower = result.lower()
     for suffix in EN_SUFFIXES:
         if name_lower.endswith(suffix.lower()):
@@ -133,3 +133,5 @@ def extract_keywords(name: str) -> list[str]:
     # 简单分词：按空格和常见分隔符
     words = re.split(r"[\s\-_]+", normalized)
     return [w for w in words if w and len(w) > 1]
+words if w and len(w) > 1]
+ return [w for w in words if w and len(w) > 1]

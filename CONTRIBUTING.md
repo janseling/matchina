@@ -16,7 +16,7 @@ python scripts/check-docs.py
 1. **README.md** - 中文文档完整性
 2. **README_en.md** - 英文文档完整性
 3. **CHANGELOG.md** - 版本记录
-4. **内部信息** - 无四套班子信息
+4. **内部信息** - 无内部架构信息
 5. **GitHub 链接** - 正确链接 (janseling)
 
 ### 禁止事项

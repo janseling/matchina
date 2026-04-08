@@ -84,7 +84,6 @@ data/*.json
 *.tmp
 tmp/
 
-# Memory logs (四套班子留痕 - 不公开)
+# Memory logs
 memory/
-
 engine
